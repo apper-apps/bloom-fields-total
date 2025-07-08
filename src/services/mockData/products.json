@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "name": "Summer Sunshine Bouquet",
+    "category": "bouquets",
+    "price": 35.99,
+    "description": "A vibrant collection of sunflowers, yellow roses, and seasonal greens that captures the essence of summer. Perfect for brightening any space with natural warmth.",
+    "images": ["https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=600&q=80", "https://images.unsplash.com/photo-1566041510394-cf7c8fe21800?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Trim stems at an angle, change water every 2-3 days, keep in cool location away from direct sunlight."
+  },
+  {
+    "Id": 2,
+    "name": "Romantic Rose Arrangement",
+    "category": "bouquets",
+    "price": 49.99,
+    "description": "An elegant arrangement of deep red roses with baby's breath and eucalyptus. Hand-picked from our fields for maximum freshness and beauty.",
+    "images": ["https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=600&q=80", "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Remove lower leaves, cut stems underwater, use flower food provided, replace water every 2 days."
+  },
+  {
+    "Id": 3,
+    "name": "Wildflower Meadow Mix",
+    "category": "bouquets",
+    "price": 28.99,
+    "description": "A rustic collection of wildflowers including lavender, chamomile, and poppies. Brings the beauty of our meadows directly to your home.",
+    "images": ["https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80", "https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Gentle handling required, trim stems regularly, mist lightly, keep in cool water."
+  },
+  {
+    "Id": 4,
+    "name": "White Lily Elegance",
+    "category": "single-stems",
+    "price": 12.99,
+    "description": "Pure white lilies with their intoxicating fragrance. Perfect for special occasions or as a thoughtful gift.",
+    "images": ["https://images.unsplash.com/photo-1594736797933-d0d4ac429ec0?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Remove pollen carefully, trim stems every few days, keep water fresh and cool."
+  },
+  {
+    "Id": 5,
+    "name": "Tulip Garden Bundle",
+    "category": "single-stems",
+    "price": 24.99,
+    "description": "A dozen fresh tulips in mixed spring colors. Grown in our greenhouse for year-round availability.",
+    "images": ["https://images.unsplash.com/photo-1521336575822-6da63fb45455?w=600&q=80"],
+    "inStock": false,
+    "careInstructions": "Cut stems short, use shallow water, keep in cool location, stems will continue to grow."
+  },
+  {
+    "Id": 6,
+    "name": "Lavender Herb Plant",
+    "category": "potted-plants",
+    "price": 18.99,
+    "description": "Organic lavender plant in a rustic terracotta pot. Perfect for windowsills and adds natural fragrance to your home.",
+    "images": ["https://images.unsplash.com/photo-1611909023032-2d6b3134ecba?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Water when soil is dry, provide plenty of sunlight, prune after flowering for continued growth."
+  },
+  {
+    "Id": 7,
+    "name": "Herb Garden Starter Kit",
+    "category": "potted-plants",
+    "price": 39.99,
+    "description": "Collection of four essential herbs: basil, rosemary, thyme, and sage. Everything you need to start your kitchen garden.",
+    "images": ["https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Water regularly but don't overwater, place in sunny location, harvest regularly to encourage growth."
+  },
+  {
+    "Id": 8,
+    "name": "Seasonal Farm Bundle",
+    "category": "bouquets",
+    "price": 55.99,
+    "description": "Our farmer's choice selection of the best seasonal flowers currently blooming. Changes with the seasons for maximum freshness.",
+    "images": ["https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Follow specific care instructions provided with each variety, generally keep cool and hydrated."
+  },
+  {
+    "Id": 9,
+    "name": "Peony Paradise",
+    "category": "single-stems",
+    "price": 15.99,
+    "description": "Luxurious peonies in full bloom. Available in limited quantities during peak season for the most spectacular display.",
+    "images": ["https://images.unsplash.com/photo-1588392382834-a891154bca4d?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Handle gently, cut stems at sharp angle, use lukewarm water, keep away from heat sources."
+  },
+  {
+    "Id": 10,
+    "name": "Succulent Garden",
+    "category": "potted-plants",
+    "price": 29.99,
+    "description": "Variety of small succulents arranged in a decorative wooden box. Low maintenance and perfect for any space.",
+    "images": ["https://images.unsplash.com/photo-1459156212016-c812468e2115?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Water sparingly, provide bright indirect light, ensure good drainage, minimal maintenance required."
+  },
+  {
+    "Id": 11,
+    "name": "Autumn Harvest Bouquet",
+    "category": "bouquets",
+    "price": 42.99,
+    "description": "Warm autumn colors featuring chrysanthemums, marigolds, and orange roses with seasonal foliage.",
+    "images": ["https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Remove wilted blooms, change water frequently, trim stems every few days for longevity."
+  },
+  {
+    "Id": 12,
+    "name": "Orchid Elegance",
+    "category": "potted-plants",
+    "price": 34.99,
+    "description": "Beautiful white orchid in a modern ceramic pot. A sophisticated addition to any home or office space.",
+    "images": ["https://images.unsplash.com/photo-1553456558-aff63285bdd1?w=600&q=80"],
+    "inStock": true,
+    "careInstructions": "Water weekly with ice cubes, provide bright indirect light, maintain humidity, fertilize monthly."
+  }
+]
